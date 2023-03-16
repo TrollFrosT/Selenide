@@ -74,7 +74,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.ChromeTest.shouldTest">
+  <component name="RunManager" selected="Gradle.ChromeTest">
     <configuration name="ChromeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -123,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ChromeTest.shouldTest" />
         <item itemvalue="Gradle.ChromeTest" />
+        <item itemvalue="Gradle.ChromeTest.shouldTest" />
       </list>
     </recent_temporary>
   </component>
