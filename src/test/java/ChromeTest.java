@@ -24,7 +24,7 @@ class ChromeTest {
         String planningDate = generateDate(5);
 
         Configuration.holdBrowserOpen = true;
-        Configuration.headless = true;
+
 
 
         open ("http://localhost:9999/");
