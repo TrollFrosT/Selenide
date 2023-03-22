@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ab28c60-4604-48c4-a506-d95598220ba8" name="Changes" comment="">
+    <list default="true" id="3ab28c60-4604-48c4-a506-d95598220ba8" name="Changes" comment="Ten">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ChromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChromeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678712439133</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ten">
+      <created>1679420164171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679420164171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,5 +157,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ten" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ten" />
   </component>
 </project>
